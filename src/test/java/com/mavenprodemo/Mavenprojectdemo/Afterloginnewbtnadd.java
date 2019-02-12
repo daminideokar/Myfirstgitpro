@@ -29,7 +29,7 @@ public class Afterloginnewbtnadd {
 		newbtn.click();
 			
         WebElement titletextbox=  driver.findElement(By.id("title"));
-        titletextbox.sendKeys("WELCOME DAMINI ");
+        titletextbox.sendKeys("WELCOME DAMINI Testing");
 		
 		
 		
